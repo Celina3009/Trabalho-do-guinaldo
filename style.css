@@ -1,7 +1,10 @@
 .cabecalho{
-    background-color: crimson;
+    background-color: rgb(160, 28, 54);
+    color: aliceblue;
+    display: flex;
+
 }
 
 .imagem1{
-    width: 20%;
+    width: 10%;
 }
